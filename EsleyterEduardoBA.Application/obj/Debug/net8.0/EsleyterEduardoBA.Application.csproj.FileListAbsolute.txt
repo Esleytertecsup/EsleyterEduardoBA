@@ -13,3 +13,4 @@ C:\Users\beniq\RiderProjects\EsleyterEduardoBA\EsleyterEduardoBA.Application\obj
 C:\Users\beniq\RiderProjects\EsleyterEduardoBA\EsleyterEduardoBA.Application\obj\Debug\net8.0\refint\EsleyterEduardoBA.Application.dll
 C:\Users\beniq\RiderProjects\EsleyterEduardoBA\EsleyterEduardoBA.Application\obj\Debug\net8.0\EsleyterEduardoBA.Application.pdb
 C:\Users\beniq\RiderProjects\EsleyterEduardoBA\EsleyterEduardoBA.Application\obj\Debug\net8.0\ref\EsleyterEduardoBA.Application.dll
+C:\Users\beniq\RiderProjects\EsleyterEduardoBA\EsleyterEduardoBA.Application\obj\Debug\net8.0\EsleyterEduardoBA.Application.sourcelink.json

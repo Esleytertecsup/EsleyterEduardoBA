@@ -181,3 +181,4 @@ C:\Users\beniq\RiderProjects\EsleyterEduardoBA\EsleyterEduardoBA\bin\Debug\net8.
 C:\Users\beniq\RiderProjects\EsleyterEduardoBA\EsleyterEduardoBA\bin\Debug\net8.0\RBush.dll
 C:\Users\beniq\RiderProjects\EsleyterEduardoBA\EsleyterEduardoBA\bin\Debug\net8.0\SixLabors.Fonts.dll
 C:\Users\beniq\RiderProjects\EsleyterEduardoBA\EsleyterEduardoBA\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\beniq\RiderProjects\EsleyterEduardoBA\EsleyterEduardoBA\obj\Debug\net8.0\EsleyterEduardoBA.sourcelink.json

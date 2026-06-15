@@ -17,3 +17,4 @@ C:\Users\beniq\RiderProjects\EsleyterEduardoBA\EsleyterEduardoBA.Infrastructure\
 C:\Users\beniq\RiderProjects\EsleyterEduardoBA\EsleyterEduardoBA.Infrastructure\obj\Debug\net8.0\EsleyterEduardoBA.Infrastructure.pdb
 C:\Users\beniq\RiderProjects\EsleyterEduardoBA\EsleyterEduardoBA.Infrastructure\obj\Debug\net8.0\EsleyterEduardoBA.Infrastructure.genruntimeconfig.cache
 C:\Users\beniq\RiderProjects\EsleyterEduardoBA\EsleyterEduardoBA.Infrastructure\obj\Debug\net8.0\ref\EsleyterEduardoBA.Infrastructure.dll
+C:\Users\beniq\RiderProjects\EsleyterEduardoBA\EsleyterEduardoBA.Infrastructure\obj\Debug\net8.0\EsleyterEduardoBA.Infrastructure.sourcelink.json
